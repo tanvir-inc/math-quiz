@@ -1,8 +1,7 @@
 package com.tanvir.math_quiz;
 import javax.swing.JOptionPane;
 
-public class CSE110_Project {
-
+public class Quiz {
     public static void main(String[] args) {
         UI_Frame frame = new UI_Frame();
         frame.launch();
